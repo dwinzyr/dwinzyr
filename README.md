@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @dwinzyr
+- 👋 Hi, I’m Dwi Ananda Surya 
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning JavaScript and many More
-- 💞️ I’m looking to collaborate
 
 
